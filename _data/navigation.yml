@@ -1,0 +1,9 @@
+# Site navigation links
+- title: Home
+  url: /
+
+- title: What is LES?
+  url: /what_is_les/
+
+#- title: CV
+#  url: /cv/
