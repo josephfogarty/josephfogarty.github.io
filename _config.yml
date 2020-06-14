@@ -1,7 +1,10 @@
 theme: jekyll-theme-minimal
+minimal_mistakes_skin: "aqua"
+# options: "default" # "air", "aqua", "contrast", "dark",
+# "dirt", "neon", "mint", "plum" "sunrise"
+
 
 # Site wide configuration
-
 title: Joseph Fogarty's Website
 locale: en_US
 #logo: # filename of a logo image that has been placed into your images directory

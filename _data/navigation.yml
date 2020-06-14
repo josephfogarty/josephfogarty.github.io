@@ -1,9 +1,27 @@
 # Site navigation links
-- title: Home
-  url: /
+# links
+main:
+  - title: "Home"
+    url: /
+  - title: "Research Focus"
+    url: /research/
+  - title: "What is LES?"
+    url: /what_is_les/
+  - title: "Models"
+    url: /models/
+#  - title: "Education"
+#    url: /teaching/
+#  - title: "Talks"
+#    url: /talks/
+   - title: "Biography"
+    url: /bio/
 
-- title: What is LES?
-  url: /what_is_les/
 
-#- title: CV
-#  url: /cv/
+# documentation links
+#quicklinks:
+#  - title: Organisations/Projects
+#    children:
+#      - title: "Princeton EFM"
+#        url: http://efm.princeton.edu/
+#      - title: "Princeton CEE"
+#        url: https://cee.princeton.edu/
