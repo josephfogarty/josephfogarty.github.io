@@ -2,14 +2,20 @@
 - title: Home
   url: /
 
+- title: Research
+  url: /research/
+
 - title: Presentations
   url: /presentations/
 
 - title: CV
   url: /cv/
 
-- title: Blog
-  url: /blog/
+#- title: Blog
+#  url: /blog/
 
-- title: Workshops
-  url: /workshops/
+- title: What is LES?
+  url: /what_is_les/
+
+#- title: Models
+#  url: /models/
