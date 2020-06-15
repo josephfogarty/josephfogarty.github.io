@@ -5,6 +5,9 @@
 - title: Research
   url: /research/
 
+- title: What is LES?
+  url: /what_is_les/
+
 - title: Presentations
   url: /presentations/
 
@@ -13,9 +16,6 @@
 
 #- title: Blog
 #  url: /blog/
-
-- title: What is LES?
-  url: /what_is_les/
 
 #- title: Models
 #  url: /models/
