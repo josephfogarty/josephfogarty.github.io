@@ -3,10 +3,10 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
+# Welcome!
 
-## Current Interests and Projects:
+Welcome to my website! My name is Joseph Fogarty, a graduate student currently enrolled at Princeton University. Please feel free to explore this website for an overview of current research activities, projects, and anything else I may be working on.
 
-- Website Design
-- [GitHub Pages](http://laderast.github.io)
-- Academia
+## About Me
+
+A little more about me: I am a third-year graduate student at Princeton University in the [Environmental Fluid Mechanics (EFM)](http://efm.princeton.edu/) research group, in the department of [Civil and Environmental Engineering (CEE)](https://cee.princeton.edu/). During my undergraduate studies in [Meteorology](https://meteorology.rutgers.edu/) at Rutgers University, I realized my interests are less aligned with traditional operational forecasting, and more so with understanding the fluid dynamics of the atmospheric boundary layer (ABL). Numerical, observational, and theoretical techniques are used to understand not only the ABL, but the interactions between the Earth's surface and the atmosphere. Currently, I am using large-eddy simulations (LES) to simulate and understand the Arctic ABL over changing sea ice states.
