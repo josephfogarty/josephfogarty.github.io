@@ -1,9 +1,8 @@
 ---
+title: "Welcome!"
 layout: page
 excerpt: "About Me..."
 ---
-
-# Welcome!
 
 Welcome to my website! My name is Joseph Fogarty, a graduate student currently enrolled at Princeton University. Please feel free to explore this website for an overview of current research activities, projects, and anything else I may be working on.
 
