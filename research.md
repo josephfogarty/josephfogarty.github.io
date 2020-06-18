@@ -6,7 +6,7 @@ excerpt: "Sea Ice and the Arctic Atmospheric Boundary Layer"
 
 ## Sea Ice Surface Energy Balance (IceSUBS)
 
-IceSUBS (Ice SUrface energy Balance) is a vertical one-dimensional model of solving the heat equation in a block of sea ice, while simultaneously solving the surface energy balance (SEB) including models for radiation, sensible and latent heat, and ground conduction. More coming soon!
+IceSUBS (Ice SUrface energy Balance) is a vertical one-dimensional model that solves the heat equation in a block of sea ice, while simultaneously solving the surface energy balance (SEB) of said sea ice. This model includes test parameterizations for processes such as bulk air temperature, net radiation, sensible and latent heat, and ground conduction. More information coming soon!
 
 ## Large-Eddy Simulations
 
