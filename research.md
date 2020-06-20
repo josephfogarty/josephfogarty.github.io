@@ -10,7 +10,7 @@ IceSUBS (Ice SUrface energy Balance) is a vertical one-dimensional model that so
 
 ### Large-Eddy Simulations of the Arctic ABL
 
-More coming soon! See [What is LES?](what_is_les.md) for more information on what LES is.
+More coming soon! See [What is LES?](what_is_les.md) for more information on what LES and why it is used in my research.
 
 ### Surface Heterogeneity Quantification
 
