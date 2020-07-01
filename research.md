@@ -14,4 +14,4 @@ More coming soon! See [What is LES?](what_is_les.md) for more information on wha
 
 ### Surface Heterogeneity Quantification
 
-Many techniques are used to quantify the heterogeneity of a surface. Quantifying a surface is useful in coarse geophysical models that cannot resolve heterogeneity less than the grid cell. Techniques currently being investigated here include second-order statistics (such as variograms) and probability density functions (PDF). More coming soon!
+Many techniques are used to quantify the heterogeneity of a surface. Quantifying a surface is useful in coarse geophysical models that cannot resolve heterogeneity less than the grid cell. Techniques currently being investigated here include second-order statistics (such as variograms) of surface maps of temperature and roughness, and probability density functions (PDFs) of length scales of ice and water. More coming soon!
