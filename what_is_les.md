@@ -6,7 +6,7 @@ excerpt: "The importance of large-eddy simulations"
 
 ### Short Answer:
 
-A [large-eddy simulation (LES)](https://en.wikipedia.org/wiki/Large_eddy_simulation) is a turbulence-resolving computational and numerical method that models fluid flow by solving the filtered [equations of motion](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations).
+A [large-eddy simulation (LES)](https://en.wikipedia.org/wiki/Large_eddy_simulation) is a turbulence-resolving computational and numerical method that models fluid flow by solving the [filtered equations of motion](https://en.wikipedia.org/wiki/Large_eddy_simulation#Filtered_governing_equations).
 
 ### Long Answer:
 
