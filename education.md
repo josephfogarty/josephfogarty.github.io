@@ -12,7 +12,7 @@ During my senior year, I completed a George H. Cook Honors project titled, ['Dri
 
 ### Graduate Work
 
-The undergraduate combination of the meteorology, mathematics and environmental science led to my current work as part of the [Environmental Fluid Mechanics (EFM)](http://efm.princeton.edu/){:target="_blank"} research group, under the advisement or Professor Elie Bou-Zeid in the department of [Civil and Environmental Engineering (CEE)](https://cee.princeton.edu/). My overall research combines numerical and observational methods to understand how the constantly-changing Arctic sea ice surface is affected by the ABL, and what feedbacks exist between the Arctic ABL, sea ice, and the ocean. See more in the 'Research' and 'What is LES?'' tab.
+The undergraduate combination of the meteorology, mathematics and environmental science led to my current work as part of the [Environmental Fluid Mechanics (EFM)](http://efm.princeton.edu/){:target="_blank"} research group, under the advisement or Professor Elie Bou-Zeid in the department of [Civil and Environmental Engineering (CEE)](https://cee.princeton.edu/){:target="_blank"}. My overall research combines numerical and observational methods to understand how the constantly-changing Arctic sea ice surface is affected by the ABL, and what feedbacks exist between the Arctic ABL, sea ice, and the ocean. See more in the 'Research' and 'What is LES?'' tab.
 
 Relevant Coursework:
 - Atmospheric Sciences
