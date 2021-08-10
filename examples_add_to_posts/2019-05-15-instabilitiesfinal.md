@@ -12,7 +12,7 @@ category: blog
 
 #### Background
 
-Fluid mechanics is overflowing with dimensionless numbers, and one of the most important numbers (if not _the_ most important number) is Reynolds number is one of the most important numbers  in fluid mechanics. It is defined as $$Re=UL/\nu$$, and describes the ratio of inertial to viscous forces.
+Fluid mechanics is overflowing with dimensionless numbers, and one of the most important numbers (if not _the_ most important number) is the Reynolds number. Defined as $$Re=UL/\nu$$, it describes the ratio of inertial to viscous forces, essentially telling us if a fluid is laminar or turbulent.
 
 But we cannot neglect other dimensionless numbers. One of the lesser known numbers, the Strouhal number
 
