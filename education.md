@@ -22,11 +22,9 @@ The undergraduate combination of the meteorology, mathematics and environmental 
   - CEE 588: Boundary Layer Meteorology
 - Computational and Mathematical Sciences
   - MAE 501: Mathematical Methods in Engineering I
-  - APC 503: Analytical Techniques in Differential Equations*
   - APC 523: Numerical Algorithms for Scientific Computing
   - ELE 364: Machine Learning for Predictive Data Analytics
 - Environmental Studies
   - CEE 587: Ecohydrology
   - MAE 563: Instabilities in Fluids: Linear and Non-Linear Analysis of Waves and Patterns in the Environment
-
-\* = Audit
+  - ENV 596: Topics in Environmental Studies: Climate Science and Digital Culture
