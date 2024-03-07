@@ -28,3 +28,9 @@ The undergraduate combination of the meteorology, mathematics and environmental 
   - CEE 587: Ecohydrology
   - MAE 563: Instabilities in Fluids: Linear and Non-Linear Analysis of Waves and Patterns in the Environment
   - ENV 596: Topics in Environmental Studies: Climate Science and Digital Culture
+
+#### Relevant Courses Taught
+
+- Hydrology: Water and Climte (CEE 306)
+- Environmental Fluid Mechanics (CEE 305)
+- The Climatological, Hydrological, & Environmental Footprints of Cities (CEE 474)
