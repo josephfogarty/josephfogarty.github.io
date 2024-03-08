@@ -6,7 +6,7 @@ excerpt: "About Me..."
 
 Welcome to my website! My name is Joseph Fogarty, a graduate student currently enrolled at Princeton University. Please feel free to explore this website for an overview of current research activities, projects, and anything else I may be working on.
 
-See my recent paper on [how alternating ice and water patches affect the the Arctic Boundary Layer](https://doi.org/10.1007/s10546-023-00825-x), published in *Boundary-Layer Meteorology*.
+See my recent preprint under discussion at EGUsphere, ["How Many Parameters are Needed to Represent Polar Sea Ice Surface Patterns and Heterogeneity?"](https://doi.org/10.5194/egusphere-2024-532).
 
 ## About Me
 
