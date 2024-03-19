@@ -6,7 +6,7 @@ excerpt: "About Me..."
 
 Welcome to my website! My name is Joseph Fogarty, a graduate student currently enrolled at Princeton University. Please feel free to explore this website for an overview of current research activities, projects, and anything else I may be working on.
 
-See my recent preprint under discussion at EGUsphere, ["How Many Parameters are Needed to Represent Polar Sea Ice Surface Patterns and Heterogeneity?"](https://doi.org/10.5194/egusphere-2024-532).
+See my recent preprint under discussion at EGUsphere, ["How Many Parameters are Needed to Represent Polar Sea Ice Surface Patterns and Heterogeneity?"](docs/papers/egusphere-2024-532.pdf){:target="_blank"}.
 
 ## About Me
 
