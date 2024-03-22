@@ -4,7 +4,7 @@ title: Birding
 excerpt: "Picutre of Birds"
 ---
 
-I love to birdwatch in my free time, so enjoy some of the pictures I have collected!
+I love birds, so check out some pictures that I (or my Bird Buddy) have taken!
 
 ![A House Finch trying to catch its food](/images/bird_pics/bb_20230218.jpg)
 A House Finch trying to catch its food
