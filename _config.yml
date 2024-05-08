@@ -8,13 +8,13 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Joseph Fogarty
   avatar: jfogarty.jpg
-  bio: "ABD Ph.D. candidate at Princeton University"
+  bio: "Just defended at Princeton University!"
   email: jf38@princeton.edu
   # Do not include the @ symbol in your Twitter username
   twitter: #
-  linkedin: #username
+  linkedin: josephfogarty1218 #username
   github: josephfogarty
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  orcid: 0009-0008-3374-5232 # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
   google:
