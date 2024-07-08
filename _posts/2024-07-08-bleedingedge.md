@@ -2,7 +2,7 @@
 layout: post
 title: Bleeding Edge
 excerpt: "AMBOPEDIA cruise, anyone?"
-modified: 8/27/2020
+modified: 7/8/2024
 tags: [literature]
 comments: true
 category: blog
