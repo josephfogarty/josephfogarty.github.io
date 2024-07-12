@@ -8,7 +8,7 @@ comments: true
 category: blog
 ---
 
-My own links to get to the Reddit discussions of _Against The Day_ by Thomas Pynchon. Page numbers refer to the Penguin edition. The quote denots where that particular section begins.
+My own links to get to the Reddit discussions of _Against The Day_ by Thomas Pynchon. Page numbers refer to the Penguin edition. The quote denotes where that particular section begins.
 
 [Reading Commences](https://www.reddit.com/r/ThomasPynchon/comments/r2o2pk/against_the_day_group_read_week_1_reading/?sort=top){:target="\_blank"}
 
