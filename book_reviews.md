@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Birding
-excerpt: "Pictures of Birds"
+layout: post-index_book
+title: Book Reviews
+excerpt: "Books Reviews"
 ---
 
 I love birds, so check out some pictures that I (or my Bird Buddy) have taken!
